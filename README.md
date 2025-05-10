@@ -119,6 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Anish Naik – [your.email@example.com](mailto:your.email@example.com)
+Anish Naik – [akn54@scarletmail.rutgers.edu]
+Sahil Sharma - [ss4756@scarletmail.rutgers.edu]
 
-Project repository: [https://github.com/](https://github.com/)<your-username>/stock-price-prediction
+Project repository: [https://github.com/](https://github.com/)<anishknaik>/stock-price-prediction
